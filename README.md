@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Johan</h1>
-<h3 align="left">A passionate (soon to be..) Android Developer</h3>
 
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasvalljohan&show_icons=true&locale=en" alt="nasvalljohan" /></p>
 
