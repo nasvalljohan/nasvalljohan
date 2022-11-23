@@ -9,7 +9,7 @@ These are the projects i have created and worked on during my time at STI - Stoc
      App made to help you quit using nicotine emphasizing the financial aspect. 
      Built with Kotlin, XML, LiveData, Navigation Component & Bottom Navigation-bar.
 
-     This app is currently avaliable on [Google Play](https://play.google.com/store/apps/details?id=com.antisnusbolaget.slutasnusa2&gl=SE&pli=1)
+     This app is currently available on [Google Play](https://play.google.com/store/apps/details?id=com.antisnusbolaget.slutasnusa2&gl=SE&pli=1)
 
 ### **iOS**
 - :file_folder:[Intern Pairing](https://github.com/nasvalljohan/InternPairing)
