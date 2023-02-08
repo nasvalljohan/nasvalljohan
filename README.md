@@ -34,8 +34,6 @@ These are the projects i have created and worked on during my time at STI - Stoc
 ### **Educational Android projects**
 - :file_folder:[Companion Object UseCase](https://github.com/nasvalljohan/Companion-object)
 
-     Small project showing effective usecase for companion objects. 
+     Small project demonstrating companion objects. 
 
-- :file_folder:[Android Fundamentals](https://github.com/nasvalljohan/Android-Fundamentals)
 
-     Small project with fundamentals for Android Studio-beginners. 
