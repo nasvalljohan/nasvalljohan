@@ -30,10 +30,3 @@ These are the projects i have created and worked on during my time at STI - Stoc
 
      Converter-app built using React Native.
      Displays the current biggest cryptocoins from API, convert to SEK by tapping.
-
-### **Educational Android projects**
-- :file_folder:[Companion Object UseCase](https://github.com/nasvalljohan/Companion-object)
-
-     Small project demonstrating companion objects. 
-
-
