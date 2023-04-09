@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Johan</h1>
 
-These are the projects(among many others) i have created and worked on during my time at STI - Stockholm Technical Institute 
+These are the projects (..among many..) i have created and worked on during my time at STI - Stockholm Technical Institute 
 
 ### **Android**
  
